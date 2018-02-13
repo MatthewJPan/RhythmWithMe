@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:tools="http://schemas.android.com/tools"
+    xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:uemr="http://schemas.android.com/apk/res-auto">
+    <item
+        android:id="@+id/call"
+        android:icon="@android:drawable/ic_menu_call"
+        uemr:showAsAction="ifRoom"
+        android:title="Call Clinics"
+        />
+    <item
+        android:id="@+id/seekhelp"
+        android:icon="@android:drawable/ic_menu_search"
+        uemr:showAsAction="ifRoom"
+        android:title="Seek Help"
+         />
+   <!--<item
+        android:id="@+id/choosetime"
+        android:icon="@android:drawable/ic_menu_my_calendar"
+        uemr:showAsAction="ifRoom"
+        android:title="Choose Time"
+         />
+         -->
+</menu>

@@ -1,0 +1,320 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        is-multidex="true"
+        jar="/Users/mac/Desktop/SP/UEMR/app/libs/jna-4.1.0.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.2"
+        sha1="1c12d070e602efd8021891cdd7fd18bc129372d4">
+        <dex dex="/Users/mac/Desktop/SP/UEMR/app/build/intermediates/transforms/dex/debug/folders/1000/2/jna-4.1.0_108f804c576517b47d287bcf8e81a8862911b68f/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/mac/Desktop/SP/UEMR/app/libs/httpclient-win-4.5.3.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.2"
+        sha1="0f51e959ce76cae4e0b7513aae442bcd4d542b99">
+        <dex dex="/Users/mac/Desktop/SP/UEMR/app/build/intermediates/transforms/dex/debug/folders/1000/2/httpclient-win-4.5.3_4ca8572aa4357f0e7f61823301ba05fa0123aaf0/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/mac/Desktop/SP/UEMR/app/build/intermediates/exploded-aar/com.android.support/support-core-utils/25.1.1/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.2"
+        sha1="0fb891e8f0cfba0513043a7bb357513d229ca2cd">
+        <dex dex="/Users/mac/Desktop/SP/UEMR/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.android.support-support-core-utils-25.1.1_ee9fddb278b0262170834680acdd0b7a723f3e0c/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/mac/Desktop/SP/UEMR/app/libs/commons-logging-1.2.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.2"
+        sha1="4bfc12adfe4842bf07b657f0369c4cb522955686">
+        <dex dex="/Users/mac/Desktop/SP/UEMR/app/build/intermediates/transforms/dex/debug/folders/1000/2/commons-logging-1.2_f9aaa18dbf2f5789452218aa9166d966ad180ba5/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/mac/Desktop/SP/UEMR/app/libs/httpmime-4.5.3.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.2"
+        sha1="889fd6d061bb63b99dd5c6aba35a555ae863de52">
+        <dex dex="/Users/mac/Desktop/SP/UEMR/app/build/intermediates/transforms/dex/debug/folders/1000/2/httpmime-4.5.3_7ebe09711a295924104035e7a1932c7a4e5182be/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/mac/Desktop/SP/UEMR/app/build/intermediates/exploded-aar/com.android.support/support-compat/25.1.1/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.2"
+        sha1="02741d05d4b697fba5e279e9881aaa1da0ca7c7f">
+        <dex dex="/Users/mac/Desktop/SP/UEMR/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.android.support-support-compat-25.1.1_3f9ca7b8088de398f3738726b3ece1aac9139836/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/mac/Desktop/SP/UEMR/app/build/intermediates/exploded-aar/com.android.support/design/24.2.1/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.2"
+        sha1="e03f47f3d1017a093bb3239d4ec47c3447f40744">
+        <dex dex="/Users/mac/Desktop/SP/UEMR/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.android.support-design-24.2.1_c74668a6f0fc6d59ce6121400d107257b7ff342c/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/mac/Desktop/SP/UEMR/app/build/intermediates/incremental-classes/debug/instant-run-bootstrap.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.2"
+        sha1="be78d8938a0b7039091532372baba7229c475e00">
+        <dex dex="/Users/mac/Desktop/SP/UEMR/app/build/intermediates/transforms/dex/debug/folders/1000/10/instant-run-bootstrap_9e196e66649f19f75cb05a362aecf3f4f54a6bf4/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/mac/Desktop/SP/UEMR/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-appindexing/8.4.0/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.2"
+        sha1="65d086ee9daaf87b5af62ad24471edafa433354c">
+        <dex dex="/Users/mac/Desktop/SP/UEMR/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.google.android.gms-play-services-appindexing-8.4.0_bcc0061f6bc9e6618d1e459c192aebb1af1e9247/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/mac/Desktop/SP/UEMR/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-base/8.4.0/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.2"
+        sha1="fef2b3e4b6b1b0e5fe7b69fa137a5fa55a3182ab">
+        <dex dex="/Users/mac/Desktop/SP/UEMR/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.google.android.gms-play-services-base-8.4.0_ee4009a337f99a726f936a84ba547031394bae74/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/mac/.gradle/caches/modules-2/files-2.1/com.googlecode.json-simple/json-simple/1.1/5e303a03d04e6788dddfa3655272580ae0fc13bb/json-simple-1.1.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.2"
+        sha1="5e303a03d04e6788dddfa3655272580ae0fc13bb">
+        <dex dex="/Users/mac/Desktop/SP/UEMR/app/build/intermediates/transforms/dex/debug/folders/1000/10/json-simple-1.1_22e5197cd8739b6267f3e76348a223d2216d2893/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/mac/Desktop/SP/UEMR/app/libs/httpclient-cache-4.5.3.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.2"
+        sha1="baa6474c7f9b9f027a02fbbee375263ac482e343">
+        <dex dex="/Users/mac/Desktop/SP/UEMR/app/build/intermediates/transforms/dex/debug/folders/1000/2/httpclient-cache-4.5.3_bcbd8f215a67f390ac79320654b0b4f569adfc98/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/mac/Desktop/SP/UEMR/app/build/intermediates/exploded-aar/com.android.support/animated-vector-drawable/24.2.1/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.2"
+        sha1="94bc1dfb84dcc8b6f6f8f7cc726d7b2dd39c1574">
+        <dex dex="/Users/mac/Desktop/SP/UEMR/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.android.support-animated-vector-drawable-24.2.1_51259d08ea7458c500f595da23f480f6bad0d7f7/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/mac/Desktop/SP/UEMR/app/libs/httpcore-nio-4.4.6.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.2"
+        sha1="4bafcb5aacb1abc193698a13ae99394e09a25101">
+        <dex dex="/Users/mac/Desktop/SP/UEMR/app/build/intermediates/transforms/dex/debug/folders/1000/2/httpcore-nio-4.4.6_b988dba889e27a526eba132fe3174eb46047506d/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/mac/Desktop/SP/UEMR/app/libs/httpcore-ab-4.4.6.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.2"
+        sha1="40840f3a9cb47226603ae31078929977edac9ccc">
+        <dex dex="/Users/mac/Desktop/SP/UEMR/app/build/intermediates/transforms/dex/debug/folders/1000/2/httpcore-ab-4.4.6_be2a253bc41dec34af2cd1fad5d1a517f9f2bd99/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/mac/Desktop/SP/UEMR/app/libs/fluent-hc-4.5.3.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.2"
+        sha1="76487e3a4fa77b2dd6cb1927ea423e220d7efbab">
+        <dex dex="/Users/mac/Desktop/SP/UEMR/app/build/intermediates/transforms/dex/debug/folders/1000/2/fluent-hc-4.5.3_a0e977fbaf4e8d80d07de6945117257101d410ff/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/mac/Desktop/SP/UEMR/app/build/intermediates/exploded-aar/com.android.support/cardview-v7/24.2.1/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.2"
+        sha1="c5e6490573cd2cc8018417f60ddd251138b6ed61">
+        <dex dex="/Users/mac/Desktop/SP/UEMR/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.android.support-cardview-v7-24.2.1_f42b7b3d0035827cbc5e43c4227f496bb0e71992/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/mac/Desktop/SP/UEMR/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/24.2.1/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.2"
+        sha1="43b2dba6b5a0b14527961b75329d0b90025f15ea">
+        <dex dex="/Users/mac/Desktop/SP/UEMR/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.android.support-appcompat-v7-24.2.1_ad45f8ea0e6e68cd7da9a48b9b4a472a2761d8ee/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/mac/Desktop/SP/UEMR/app/libs/httpcore-4.4.6.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.2"
+        sha1="e3fd8ced1f52c7574af952e2e6da0df8df08eb82">
+        <dex dex="/Users/mac/Desktop/SP/UEMR/app/build/intermediates/transforms/dex/debug/folders/1000/2/httpcore-4.4.6_b86475206250d93ab8f84ab853ac381664feedaf/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/mac/Desktop/SP/UEMR/app/build/intermediates/exploded-aar/com.android.support/support-core-ui/25.1.1/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.2"
+        sha1="3e04ac8ca644ea7baddf6fdcf72e15c79e9df94a">
+        <dex dex="/Users/mac/Desktop/SP/UEMR/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.android.support-support-core-ui-25.1.1_59113288b9e675ed75f5eab5f3c79ffcf7fd65b2/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/mac/Desktop/SP/UEMR/app/build/intermediates/exploded-aar/com.didikee/uitoast/0.1.0/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.2"
+        sha1="cb99ccc32c8827d263c521e53ece909e00ec99ed">
+        <dex dex="/Users/mac/Desktop/SP/UEMR/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.didikee-uitoast-0.1.0_656d2000717fbf3a0741e53264587b34ea8d7041/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/mac/Desktop/SP/UEMR/app/libs/httpclient-4.5.3.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.2"
+        sha1="d1577ae15f01ef5438c5afc62162457c00a34713">
+        <dex dex="/Users/mac/Desktop/SP/UEMR/app/build/intermediates/transforms/dex/debug/folders/1000/2/httpclient-4.5.3_8d8ceee709aafb4646242f7c4041921e6697a1e6/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/mac/Desktop/SP/UEMR/app/build/intermediates/exploded-aar/com.android.support/support-fragment/25.1.1/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.2"
+        sha1="e2719c102dca3a7a5b02ce07f769362da6ddb4ab">
+        <dex dex="/Users/mac/Desktop/SP/UEMR/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.android.support-support-fragment-25.1.1_c36735b682b6976fdda286de3ce17c61ecb17fe0/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/mac/Desktop/SP/UEMR/app/libs/commons-cli-1.2.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.2"
+        sha1="2bf96b7aa8b611c177d329452af1dc933e14501c">
+        <dex dex="/Users/mac/Desktop/SP/UEMR/app/build/intermediates/transforms/dex/debug/folders/1000/2/commons-cli-1.2_86060f7b68b319b43f7bdc6030f79b3663c2b237/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/mac/Desktop/SP/UEMR/app/build/intermediates/exploded-aar/com.android.support/support-vector-drawable/24.2.1/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.2"
+        sha1="d5c731fc64c03dfe04d51134955b483551c35849">
+        <dex dex="/Users/mac/Desktop/SP/UEMR/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.android.support-support-vector-drawable-24.2.1_7237d6c1172cd6485a4b6aa2298c56668709a943/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/mac/Desktop/SP/UEMR/app/build/intermediates/exploded-aar/com.android.support/support-media-compat/25.1.1/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.2"
+        sha1="7bde4c34162092e0a77e7f12dc85ed77c484cf5c">
+        <dex dex="/Users/mac/Desktop/SP/UEMR/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.android.support-support-media-compat-25.1.1_0d50f38e8e17543e3b52284314d46530147220f1/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/mac/Desktop/SP/UEMR/app/build/intermediates/exploded-aar/com.android.support/support-v4/25.1.1/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.2"
+        sha1="d7c42c80f6509b9ea4db28ca7859ffae08ec5741">
+        <dex dex="/Users/mac/Desktop/SP/UEMR/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.android.support-support-v4-25.1.1_e7c52e50aa0999539cb3a731e93b0b59f2887140/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/mac/Desktop/SP/UEMR/app/build/intermediates/exploded-aar/com.etsy.android.grid/library/1.0.5/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.2"
+        sha1="8218789edb56bdcfff7da48e892b37460fc707e2">
+        <dex dex="/Users/mac/Desktop/SP/UEMR/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.etsy.android.grid-library-1.0.5_5d44d0cf481485714d153a6c941c7f409bd702fd/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/mac/Desktop/SP/UEMR/app/libs/jna-platform-4.1.0.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.2"
+        sha1="23457ad1cf75c2c16763330de5565a0e67b4bc0a">
+        <dex dex="/Users/mac/Desktop/SP/UEMR/app/build/intermediates/transforms/dex/debug/folders/1000/2/jna-platform-4.1.0_8fc68ec36fe6399892325b249393ec8ca9046c3b/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/mac/Desktop/SP/UEMR/app/build/intermediates/exploded-aar/com.android.support/recyclerview-v7/24.2.1/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.2"
+        sha1="7521486d9bfd2cd9e756e0cf75ed7d97f2ce2d3b">
+        <dex dex="/Users/mac/Desktop/SP/UEMR/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.android.support-recyclerview-v7-24.2.1_2cffe226c30bd5dc6ffb539a31fcb925761ff50d/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/mac/Desktop/SP/UEMR/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-basement/8.4.0/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.2"
+        sha1="8e673cdfadd8f2d98fdb2fda2285c30f6e449782">
+        <dex dex="/Users/mac/Desktop/SP/UEMR/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.google.android.gms-play-services-basement-8.4.0_dff1b533eb2bdfddd2012c60e1228470b550e9c7/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/mac/Desktop/SP/UEMR/app/libs/commons-codec-1.9.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.2"
+        sha1="9ce04e34240f674bc72680f8b843b1457383161a">
+        <dex dex="/Users/mac/Desktop/SP/UEMR/app/build/intermediates/transforms/dex/debug/folders/1000/2/commons-codec-1.9_c2994df4560954bc82b1356914ef1833007ede9d/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/mac/Library/Android/sdk/extras/android/m2repository/com/android/support/support-annotations/25.1.1/support-annotations-25.1.1.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.2"
+        sha1="b59b6ee8d6ecc03e672d253800430343493a6ed8">
+        <dex dex="/Users/mac/Desktop/SP/UEMR/app/build/intermediates/transforms/dex/debug/folders/1000/10/support-annotations-25.1.1_bd5609519997f07d47761db13a6d8411133af900/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/mac/Desktop/SP/UEMR/app/build/intermediates/incremental-runtime-classes/debug/instant-run.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.2"
+        sha1="56c56593db443bcfb1379ca23a13f91279a36bef">
+        <dex dex="/Users/mac/Desktop/SP/UEMR/app/build/intermediates/transforms/dex/debug/folders/1000/10/instant-run_78aa7e05eaa68a9c2dff8e179c1fe7c5fb9e3d47/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/mac/.gradle/caches/modules-2/files-2.1/com.github.PhilJay/MPAndroidChart/v2.0.9/4244e2998018aa492389e8e30a77b7987959608e/MPAndroidChart-v2.0.9.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.2"
+        sha1="4244e2998018aa492389e8e30a77b7987959608e">
+        <dex dex="/Users/mac/Desktop/SP/UEMR/app/build/intermediates/transforms/dex/debug/folders/1000/10/MPAndroidChart-v2.0.9_78fd3f4469974bfb80a3b5e5f1c054d489ea43e3/classes.dex" />
+    </item>
+
+</items>
